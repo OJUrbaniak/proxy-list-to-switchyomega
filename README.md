@@ -4,7 +4,8 @@ This simple python script converts a list of proxies in the format ip:port:usern
 To use simply use the open file dialog to select your proxy list.
 
 The proxy list should be in the format ip:port:username:password
-E.g.:
+<br>E.g.:
+<br>
 231.164.184.120:54669:user1:password1<br>
 226.206.24.213:31777:user1:password1<br>
 34.205.213.167:36595:user1:password1<br>
