@@ -18,3 +18,5 @@ The proxy list should be in the format ip:port:username:password
 177.177.211.228:87392:user1:password1<br>
 
 This will generate a new file 'converted_proxies_omega.bak' which can be imported into SwitchyOmega. On SwitchyOmega go to Settings -> Import/Export -> Restore from File. 
+
+**There is also a pre-compiled (.exe) included for convenience (built from main.py)**
